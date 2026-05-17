@@ -18,6 +18,26 @@ https://atomquest-portal-omega.vercel.app
 
 ---
 
+## Screenshots
+
+### Landing Page
+
+![Landing Page](public/screenshots/landing-page.png)
+
+### Dashboard Overview
+
+![Dashboard](public/screenshots/dashboard.png)
+
+### Analytics Dashboard
+
+![Analytics](public/screenshots/analytics.png)
+
+### Command Palette
+
+![Command Palette](public/screenshots/command-palette.png)
+
+---
+
 ## Features
 
 ### Dashboard System
